@@ -1,11 +1,14 @@
 
 
 Problem Statement
+
 Every year, millions are spent by ecommerce companies on customer service. They want a reliable solution through which they could potentially save that money and resources and invest them elsewhere.
 Online retail businesses face challenges in managing customer support effectively. It drains resources, both in terms of budget and human capital, which could otherwise be invested in business growth. 
 Ecommerce businesses can focus on more complex problems but using AI for their own advantage.
 However, many ecommerce businesses seems to have traditional means of resolving customer problems and queries which is through leveraging human resource for customer service.
+
 Solution
+
 With the rapid growth of e-commerce, businesses are facing an increasing volume of customer inquiries. These inquiries often relate to product information, shipping status, order details, and other relevant topics. Answering these inquiries promptly and accurately is crucial for maintaining customer satisfaction and loyalty. However, relying solely on human customer service agents to manage this workload can be inefficient and expensive.
 To address this challenge, there is a growing need for automated solutions such as chatbots and virtual assistants. These tools can handle a large volume of repetitive inquiries, providing customers with quick and accurate responses. Chatbots can be programmed to answer frequently asked questions (FAQs), provide product information, track shipping status, and even resolve simple issues. 
 By automating these routine tasks, chatbots free up human customer service agents to focus on more complex issues that require their expertise and empathy. This can lead to a more efficient and effective customer service operation, with improved customer satisfaction and reduced costs.
